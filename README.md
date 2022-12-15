@@ -91,7 +91,7 @@ If you like this project give a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Emilia for creating this awesome Captone task
+To student success and coding partner
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
